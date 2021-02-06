@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тест</string>
+    <string name="poster_avengers_end_game">Постер фильма Мстители: Финал</string>
+    <string name="back">Назад</string>
+    <string name="age_13">13+</string>
+    <string name="avengers_end_game">Мстители:\nФинал</string>
+    <string name="genre">Экшн, Фантастика, Приключение</string>
+    <string name="star1">одна звезда</string>
+    <string name="star_two">две звезды</string>
+    <string name="star_three">три звезды</string>
+    <string name="star_four">четыре звезды</string>
+    <string name="star_five">пять звезд</string>
+    <string name="reviews">125 отзывов</string>
+    <string name="storyline">Сюжет</string>
+    <string name="description_avengers_end">Оставшиеся в живых члены команды Мстителей и их союзники должны разработать новый план, который поможет противостоять разрушительным действиям могущественного титана Таноса. После наиболее масштабной и трагической битвы в истории они не могут допустить ошибку.</string>
+    <string name="cast">Актеры</string>
+    <string name="robert_downey_jr">Роберт\nДауни Мл.</string>
+    <string name="actor_robert_downey_jr">Актер Роберт Дауни Мл.</string>
+    <string name="actor_chris_evans">Актер Крис Эванс</string>
+    <string name="chris_evans">Крис\nЭванс</string>
+    <string name="actor_mark_ruffalo">Актер Марк Руффало</string>
+    <string name="mark_ruffalo">Марк\nРуффало</string>
+    <string name="chris_hemsworth">Крис\nХемсворт</string>
+    <string name="actor_chris_hemsworth">Актер Крис Хемсворт</string>
+</resources>
